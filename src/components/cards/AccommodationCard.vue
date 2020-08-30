@@ -1,5 +1,5 @@
 <template>
-    <div class="mx-2 text-white text-left m-auto bg-red-900 rounded-md shadow-lg max-w-xs overflow-hidden">
+    <div class="m-auto my-2 text-white text-left m-auto bg-red-900 rounded-md shadow-lg max-w-xs overflow-hidden">
         <img class="object-cover w-full h-48" :src=img alt="">
         <div class="pt-2 px-4 pb-6 border-t-8 border-red-800">
             <h1 class="text-2xl">{{title}}</h1>

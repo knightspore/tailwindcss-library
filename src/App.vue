@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <h2 class="text-xs font-black mb-2">ACCOMMODATION CARDS</h2>
-    <div class="flex justify-center">
+    <h2 class="text-sm font-black my-2 text-center">ACCOMMODATION CARDS</h2>
+    <div class="w-10/12 flex flex-col lg:flex-row justify-center m-auto">
     <AccommodationCard
       title="Kommetjie"
       rating="4.2"
